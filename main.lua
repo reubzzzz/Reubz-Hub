@@ -1,4 +1,4 @@
--- REUBZ HUB MASTER SINGLE-LINK COMBINER LOADER (PATH FIX)
+-- REUBZ HUB MASTER SINGLE-LINK COMBINER LOADER (RAW LINK SERVER FIX)
 local baseUrl = "https://githubusercontent.com"
 
 local function loadPart(fileName)
